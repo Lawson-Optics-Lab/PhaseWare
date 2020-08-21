@@ -17,5 +17,4 @@ Documentation in the repository in a docs/ directory, and/or READMEs, as appropr
 
 
 
-<img src="https://www.lawsonresearch.ca/sites/public/themes/de_theme/logo.png" width="400"><img src="http://seekvectorlogo.com/wp-content/uploads/2019/08/western-university-vector-logo.png" width="400">
-![Lawson Logo](https://www.lawsonresearch.ca/sites/public/themes/de_theme/logo.png){:width="100px"}![Western Logo](http://seekvectorlogo.com/wp-content/uploads/2019/08/western-university-vector-logo.png)
+<img src="https://www.lawsonresearch.ca/sites/public/themes/de_theme/logo.png" width="400"><img src="http://seekvectorlogo.com/wp-content/uploads/2019/08/western-university-vector-logo.png" width="600">
