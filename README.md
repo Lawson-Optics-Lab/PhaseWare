@@ -17,4 +17,4 @@ Documentation in the repository in a docs/ directory, and/or READMEs, as appropr
 
 
 
-<img src="https://www.lawsonresearch.ca/sites/public/themes/de_theme/logo.png" width="400"><img src="/horizontal.png" width="600">
+<img src="https://www.lawsonresearch.ca/sites/public/themes/de_theme/logo.png" width="400"><img src="Horizontal.png" width="600">
