@@ -1,5 +1,5 @@
 # PhaseWare
-Phase map retrieval for fringe projection profilometry and off-axis digital holographic interferometry
+*Phase map retrieval for fringe projection profilometry and off-axis digital holographic interferometry*
 
 Developed by Lawson Optics Lab, Imaging Program, Lawson Health Research Institute, London, ON, Canada
 
