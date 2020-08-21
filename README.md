@@ -1,4 +1,4 @@
-# PhaseWare
+![PhaseWareLogo](/images/PhaseWare_Logo.png)
 *Phase map retrieval for fringe projection profilometry and off-axis digital holographic interferometry*
 
 Developed by Lawson Optics Lab, Imaging Program, Lawson Health Research Institute, London, ON, Canada
@@ -17,4 +17,4 @@ Documentation in the repository in a docs/ directory, and/or READMEs, as appropr
 
 
 
-<img src="https://www.lawsonresearch.ca/sites/public/themes/de_theme/logo.png" width="200"><img src="Horizontal.png" width="300">
+<img src="https://www.lawsonresearch.ca/sites/public/themes/de_theme/logo.png" width="200"><img src="images/Western_Logo.png" width="300">
