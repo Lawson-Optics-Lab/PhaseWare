@@ -8,14 +8,4 @@ Non-contact optical surface measurement and movement tracking techniques have ma
 
 Keywords: phase retrieval, 3D surface imaging, fringe projection profilometry, off-axis digital holographic interferometry
 
-
-
-Source code in a src/ directory, not the root of the repository.
-
-Tag corresponding with the version of the software that is reviewed.
-
-Documentation in the repository in a docs/ directory, and/or READMEs, as appropriate.
-
-
-
 <img src="https://www.lawsonresearch.ca/sites/public/themes/de_theme/logo.png" width="200"><img src="images/Western_Logo.png" width="300">
